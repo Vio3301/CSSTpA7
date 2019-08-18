@@ -1,0 +1,42 @@
+Bootstrap 4 (css framework)                       https://getbootstrap.com/docs/4.3/layout/grid/ !!!!
+
+fundation,
+materialize,
+semantic ui,
+
+......
+
+
+( library vs framework )
+
+
+-Dezvoltare rapida
+-Universal (navbar , meniu , grid, carusel, ....)
+-Vast comuniti(1000+):
+  * experienta
+  * adaptive / responsive
+  * crossbrawser
+  * Javascript ( redy to go )
+  * popularity -> tutoriale, documentatie, no bugs, support.
+  * documentat 
+
+- poate fi configurat cu CSS 
+
+CUM sa inveti mai rapid un framework///////
+ | la ce sa dam atentie
+  * sa fim atenti cum sint denumite clasele 
+  * atentie la respectarea constructiilor Parinte Copil
+  * atenti  la atributele ID 
+  * atentie la atributele hreff()
+  * atentie la valori atributului data-xxxx ( in Bootstrap)
+
+
+  suffixe adaptive
+
+  xs
+  sm 
+  md
+  lg
+  xl
+
+  <--------------- grid Bootstrap (12coloane virtual) ---------------->
